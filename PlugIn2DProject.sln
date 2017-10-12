@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugIn2DProject", "PlugIn2DProject.csproj", "{1584BA00-6890-D377-1ABD-EC5FA15918FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugIn2DProject.Editor", "PlugIn2DProject.Editor.csproj", "{12B2F66D-2EE1-A669-3CA9-757EA1174074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1584BA00-6890-D377-1ABD-EC5FA15918FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1584BA00-6890-D377-1ABD-EC5FA15918FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1584BA00-6890-D377-1ABD-EC5FA15918FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1584BA00-6890-D377-1ABD-EC5FA15918FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B2F66D-2EE1-A669-3CA9-757EA1174074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2F66D-2EE1-A669-3CA9-757EA1174074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B2F66D-2EE1-A669-3CA9-757EA1174074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B2F66D-2EE1-A669-3CA9-757EA1174074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
